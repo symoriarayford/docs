@@ -12,7 +12,7 @@ topics:
   - identity
   - access management
 ---
-
+Stuff coding
 {% data reusables.gpg.desktop-support-for-commit-signing %}
 
 1. To sign a tag, add `-s` to your `git tag` command.
